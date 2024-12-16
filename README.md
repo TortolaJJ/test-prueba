@@ -1,2 +1,2 @@
 # test-prueba
-Esta descripcion es opcional
+Jose Javier García Tórtola.
